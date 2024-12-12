@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Rizki! 👋<br>🌱 Currently Learning: Programming basics, recursion, and exploring pathways in software engineering or web development.<br>💡 Passionate About: Problem-solving, coding challenges, and building a strong foundation in programming.<br>🚀 Goals: To grow my skills and contribute to meaningful projects while learning from the community.<br>📚 Education: A student at SMK Taruna Bangsa, eager to dive deeper into the world of technology.<br>💬 Feel free to connect or share ideas with me! Let's learn together and create awesome things.<br><br>
+Hi there, I'm Rizki! 👋<br>🌱 Currently Learning: Anything related to software engineering or web development.<br>💡 Passionate About: Problem-solving, coding challenges, and building a strong foundation in programming.<br>🚀 Goals: To grow my skills and contribute to meaningful projects while learning from the community.<br>📚 Education: A student at SMK Taruna Bangsa, eager to dive deeper into the world of technology.<br>💬 Feel free to connect or share ideas with me! Let's learn together and create awesome things.<br><br>
 
 
 # 💻 Tech Stack:
